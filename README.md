@@ -1,4 +1,4 @@
-# 📚 DailyAlgorithms_BinaryTreeMinumumPath_1stVersion
+# 📚 DailyAlgorithms_BinaryTreeMinumumPath
 
 
 
