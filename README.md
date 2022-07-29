@@ -5,7 +5,7 @@
 https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/
 
 
-public int MinDepth(TreeNode root) {
+        public int MinDepth(TreeNode root) {
         /*
 
         DFS
